@@ -6,11 +6,7 @@
   list-style-type: none;
   font-family: cursive;
 }
-.greeting{
-  font-size: 30px;
-  border: solid blue;
-  
-}
+
 
 ol,
 ul {
@@ -240,6 +236,7 @@ h3{
     border: double  white;
     width: 550px;
     margin-top: 20px;
+    padding-right: 70px;
 }
 
 .imagen-2{
