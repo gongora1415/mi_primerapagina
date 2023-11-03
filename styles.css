@@ -6,7 +6,11 @@
   list-style-type: none;
   font-family: cursive;
 }
-
+.greeting{
+  font-size: 30px;
+  border: solid blue;
+  
+}
 
 ol,
 ul {
